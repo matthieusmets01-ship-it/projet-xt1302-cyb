@@ -1,0 +1,11 @@
+login;nom;groupe_principal;groupes_secondaires
+admin1;Administrateur Principal;admins;acces_ssh
+support;Compte Support;support;acces_ssh
+ldev1;Lucas Dev;dev;
+mdev2;Marie Dev;dev;
+ldesign1;Lea Design;design;
+tdesign2;Tom Design;design;
+ccomm1;Chloe Commercial;commercial;
+pcomm2;Paul Commercial;commercial;
+ffreelance1;Fanny Freelance;freelance;
+hfreelance2;Hugo Freelance;freelance;

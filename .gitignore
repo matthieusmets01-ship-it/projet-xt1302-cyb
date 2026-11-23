@@ -1,0 +1,7 @@
+*.key
+*_key
+*id_rsa*
+*id_ed25519*
+*.pem
+*.tar.gz
+*.log
